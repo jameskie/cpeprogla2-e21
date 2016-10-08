@@ -1,4 +1,3 @@
-//James Obrador
 #include<iostream>
 #include <fstream>
 #include<cmath>
